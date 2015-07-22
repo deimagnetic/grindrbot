@@ -1,8 +1,0 @@
-Ping timeout reached after 120 seconds, closing connection
-Calling shutdown for 4 modules.
-calling youtube.shutdown
-calling bugzilla.shutdown
-Error calling shutdown method for module bugzilla:None
-calling reddit.shutdown
-calling github.shutdown
-Closed!
