@@ -1,0 +1,542 @@
+>>1437535333.73	CAP LS
+>>1437535333.73	NICK GrindrBot
+>>1437535333.73	USER willie +iw GrindrBot :Willie: http://willie.dftba.net
+<<1437535333.73	NOTICE AUTH :*** Looking up your hostname
+<<1437535333.73	NOTICE AUTH :*** Found your hostname
+<<1437535333.73	:Aurora.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535333.74	CAP REQ multi-prefix
+>>1437535333.74	CAP END
+<<1437535333.74	PING :1729529787
+>>1437535333.74	PONG 1729529787
+<<1437535333.77	:Aurora.US.AfterNET.Org CAP GrindrBot ACK :multi-prefix
+<<1437535333.77	:Aurora.US.AfterNET.Org 001 GrindrBot :Welcome to the AfterNET IRC Network, GrindrBot
+>>1437535333.77	MODE  GrindrBot +B
+>>1437535333.77	JOIN #tib
+<<1437535333.77	:Aurora.US.AfterNET.Org 002 GrindrBot :Your host is Aurora.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437535333.77	:Aurora.US.AfterNET.Org 003 GrindrBot :This server was created Sun Apr 26 2015 at 06:59:05 UTC
+<<1437535333.78	:Aurora.US.AfterNET.Org 004 GrindrBot Aurora.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437535333.78	:Aurora.US.AfterNET.Org 005 GrindrBot WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437535333.78	:Aurora.US.AfterNET.Org 005 GrindrBot MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437535333.78	:Aurora.US.AfterNET.Org 005 GrindrBot NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437535333.78	:Aurora.US.AfterNET.Org 251 GrindrBot :There are 467 users and 369 invisible on 17 servers
+<<1437535333.79	:Aurora.US.AfterNET.Org 252 GrindrBot 21 :operator(s) online
+<<1437535333.79	:Aurora.US.AfterNET.Org 254 GrindrBot 329 :channels formed
+<<1437535333.79	:Aurora.US.AfterNET.Org 255 GrindrBot :I have 138 clients and 4 servers
+<<1437535333.79	:Aurora.US.AfterNET.Org 265 GrindrBot :Current local users: 138 Max: 384
+<<1437535333.79	:Aurora.US.AfterNET.Org 266 GrindrBot :Current global users: 836 Max: 1503
+<<1437535333.79	:Aurora.US.AfterNET.Org NOTICE GrindrBot :Highest connection count: 395 (384 clients)
+<<1437535333.79	:Aurora.US.AfterNET.Org 375 GrindrBot :- Aurora.US.AfterNET.Org Message of the Day - 
+<<1437535333.79	:Aurora.US.AfterNET.Org 372 GrindrBot :See http://www.afternet.org for information about this network.
+<<1437535333.79	:Aurora.US.AfterNET.Org 372 GrindrBot :Type /MOTD to read the AUP before continuing using this service.
+<<1437535333.79	:Aurora.US.AfterNET.Org 372 GrindrBot :The message of the day was last changed: 2014-2-18 7:18
+<<1437535333.79	:Aurora.US.AfterNET.Org 376 GrindrBot :End of /MOTD command.
+<<1437535333.79	:Aurora.US.AfterNET.Org NOTICE GrindrBot :on 1 ca 1(6) ft 10(10) tr
+<<1437535333.79	:Aurora.US.AfterNET.Org 396 GrindrBot AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437535333.79	:GrindrBot!willie@AN-F23BAF25.members.linode.com MODE GrindrBot +iwx
+<<1437535333.8	:GrindrBot!willie@AN-F23BAF25.members.linode.com MODE GrindrBot +B
+<<1437535333.81	:Aurora.US.AfterNET.Org 474 GrindrBot #tib :Cannot join channel (+b)
+>>1437535351.42	QUIT :KeyboardInterrupt
+>>1437535367.36	CAP LS
+>>1437535367.36	NICK UrGay
+>>1437535367.36	USER willie +iw UrGay :Willie: http://willie.dftba.net
+<<1437535367.37	NOTICE AUTH :*** Looking up your hostname
+<<1437535367.37	NOTICE AUTH :*** Found your hostname
+<<1437535367.37	:Aurora.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535367.37	CAP REQ multi-prefix
+>>1437535367.37	CAP END
+<<1437535367.37	PING :2588727519
+>>1437535367.37	PONG 2588727519
+<<1437535367.4	:Aurora.US.AfterNET.Org CAP UrGay ACK :multi-prefix
+<<1437535367.41	:Aurora.US.AfterNET.Org 001 UrGay :Welcome to the AfterNET IRC Network, UrGay
+>>1437535367.41	MODE  UrGay +B
+>>1437535367.41	JOIN #tib
+<<1437535367.41	:Aurora.US.AfterNET.Org 002 UrGay :Your host is Aurora.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437535367.41	:Aurora.US.AfterNET.Org 003 UrGay :This server was created Sun Apr 26 2015 at 06:59:05 UTC
+<<1437535367.41	:Aurora.US.AfterNET.Org 004 UrGay Aurora.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437535367.41	:Aurora.US.AfterNET.Org 005 UrGay WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437535367.41	:Aurora.US.AfterNET.Org 005 UrGay MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437535367.41	:Aurora.US.AfterNET.Org 005 UrGay NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437535367.42	:Aurora.US.AfterNET.Org 251 UrGay :There are 466 users and 368 invisible on 17 servers
+<<1437535367.42	:Aurora.US.AfterNET.Org 252 UrGay 21 :operator(s) online
+<<1437535367.42	:Aurora.US.AfterNET.Org 254 UrGay 329 :channels formed
+<<1437535367.42	:Aurora.US.AfterNET.Org 255 UrGay :I have 138 clients and 4 servers
+<<1437535367.42	:Aurora.US.AfterNET.Org 265 UrGay :Current local users: 138 Max: 384
+<<1437535367.42	:Aurora.US.AfterNET.Org 266 UrGay :Current global users: 834 Max: 1503
+<<1437535367.42	:Aurora.US.AfterNET.Org NOTICE UrGay :Highest connection count: 395 (384 clients)
+<<1437535367.42	:Aurora.US.AfterNET.Org 375 UrGay :- Aurora.US.AfterNET.Org Message of the Day - 
+<<1437535367.42	:Aurora.US.AfterNET.Org 372 UrGay :See http://www.afternet.org for information about this network.
+<<1437535367.43	:Aurora.US.AfterNET.Org 372 UrGay :Type /MOTD to read the AUP before continuing using this service.
+<<1437535367.43	:Aurora.US.AfterNET.Org 372 UrGay :The message of the day was last changed: 2014-2-18 7:18
+<<1437535367.43	:Aurora.US.AfterNET.Org 376 UrGay :End of /MOTD command.
+<<1437535367.43	:Aurora.US.AfterNET.Org NOTICE UrGay :on 1 ca 2(6) ft 10(10) tr
+<<1437535367.43	:Aurora.US.AfterNET.Org 396 UrGay AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437535367.43	:UrGay!willie@AN-F23BAF25.members.linode.com MODE UrGay +iwx
+<<1437535367.43	:UrGay!willie@AN-F23BAF25.members.linode.com MODE UrGay +B
+<<1437535367.44	:Aurora.US.AfterNET.Org 474 UrGay #tib :Cannot join channel (+b)
+>>1437535401.6	QUIT :KeyboardInterrupt
+>>1437535404.33	CAP LS
+>>1437535404.33	NICK UrGay
+>>1437535404.33	USER willie +iw UrGay :Willie: http://willie.dftba.net
+<<1437535404.33	NOTICE AUTH :*** Looking up your hostname
+<<1437535404.33	NOTICE AUTH :*** Found your hostname
+<<1437535404.33	:Aurora.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535404.33	CAP REQ multi-prefix
+>>1437535404.33	CAP END
+<<1437535404.33	PING :1809884785
+>>1437535404.33	PONG 1809884785
+<<1437535404.34	:Aurora.US.AfterNET.Org CAP UrGay ACK :multi-prefix
+<<1437535404.38	:Aurora.US.AfterNET.Org 001 UrGay :Welcome to the AfterNET IRC Network, UrGay
+>>1437535404.38	MODE  UrGay +B
+>>1437535404.38	JOIN #tib
+<<1437535404.38	:Aurora.US.AfterNET.Org 002 UrGay :Your host is Aurora.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437535404.38	:Aurora.US.AfterNET.Org 003 UrGay :This server was created Sun Apr 26 2015 at 06:59:05 UTC
+<<1437535404.38	:Aurora.US.AfterNET.Org 004 UrGay Aurora.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437535404.38	:Aurora.US.AfterNET.Org 005 UrGay WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437535404.39	:Aurora.US.AfterNET.Org 005 UrGay MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437535404.39	:Aurora.US.AfterNET.Org 005 UrGay NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437535404.39	:Aurora.US.AfterNET.Org 251 UrGay :There are 465 users and 368 invisible on 17 servers
+<<1437535404.39	:Aurora.US.AfterNET.Org 252 UrGay 21 :operator(s) online
+<<1437535404.4	:Aurora.US.AfterNET.Org 254 UrGay 329 :channels formed
+<<1437535404.4	:Aurora.US.AfterNET.Org 255 UrGay :I have 138 clients and 4 servers
+<<1437535404.4	:Aurora.US.AfterNET.Org 265 UrGay :Current local users: 138 Max: 384
+<<1437535404.4	:Aurora.US.AfterNET.Org 266 UrGay :Current global users: 833 Max: 1503
+<<1437535404.4	:Aurora.US.AfterNET.Org NOTICE UrGay :Highest connection count: 395 (384 clients)
+<<1437535404.4	:Aurora.US.AfterNET.Org 375 UrGay :- Aurora.US.AfterNET.Org Message of the Day - 
+<<1437535404.4	:Aurora.US.AfterNET.Org 372 UrGay :See http://www.afternet.org for information about this network.
+<<1437535404.4	:Aurora.US.AfterNET.Org 372 UrGay :Type /MOTD to read the AUP before continuing using this service.
+<<1437535404.41	:Aurora.US.AfterNET.Org 372 UrGay :The message of the day was last changed: 2014-2-18 7:18
+<<1437535404.41	:Aurora.US.AfterNET.Org 376 UrGay :End of /MOTD command.
+<<1437535404.41	:Aurora.US.AfterNET.Org NOTICE UrGay :on 1 ca 3(6) ft 10(10) tr
+<<1437535404.41	:Aurora.US.AfterNET.Org 396 UrGay AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437535404.41	:UrGay!willie@AN-F23BAF25.members.linode.com MODE UrGay +iwx
+<<1437535404.41	:UrGay!willie@AN-F23BAF25.members.linode.com MODE UrGay +B
+<<1437535404.42	:Aurora.US.AfterNET.Org 474 UrGay #tib :Cannot join channel (+b)
+>>1437535407.37	QUIT :KeyboardInterrupt
+>>1437535435.21	CAP LS
+>>1437535435.21	NICK UrGay
+>>1437535435.21	USER willie +iw UrGay :Willie: http://willie.dftba.net
+<<1437535435.21	NOTICE AUTH :*** Looking up your hostname
+<<1437535435.24	NOTICE AUTH :*** Found your hostname
+<<1437535435.32	:Pluto.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535435.32	CAP REQ multi-prefix
+>>1437535435.32	CAP END
+<<1437535435.37	PING :3172004412
+>>1437535435.37	PONG 3172004412
+<<1437535435.42	:Pluto.US.AfterNET.Org CAP UrGay ACK :multi-prefix
+<<1437535435.47	:Pluto.US.AfterNET.Org 001 UrGay :Welcome to the AfterNET IRC Network, UrGay
+>>1437535435.47	MODE  UrGay +B
+>>1437535435.47	JOIN #tib
+<<1437535435.47	:Pluto.US.AfterNET.Org 002 UrGay :Your host is Pluto.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437535435.47	:Pluto.US.AfterNET.Org 003 UrGay :This server was created Thu Jun 25 2015 at 01:14:57 UTC
+<<1437535435.47	:Pluto.US.AfterNET.Org 004 UrGay Pluto.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437535435.47	:Pluto.US.AfterNET.Org 005 UrGay WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437535435.48	:Pluto.US.AfterNET.Org 005 UrGay MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437535435.48	:Pluto.US.AfterNET.Org 005 UrGay NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437535435.51	:Pluto.US.AfterNET.Org 251 UrGay :There are 465 users and 369 invisible on 17 servers
+<<1437535435.52	:Pluto.US.AfterNET.Org 252 UrGay 21 :operator(s) online
+<<1437535435.52	:Pluto.US.AfterNET.Org 254 UrGay 329 :channels formed
+<<1437535435.52	:Pluto.US.AfterNET.Org 255 UrGay :I have 94 clients and 1 servers
+<<1437535435.52	:Pluto.US.AfterNET.Org 265 UrGay :Current local users: 94 Max: 97
+<<1437535435.52	:Pluto.US.AfterNET.Org 266 UrGay :Current global users: 834 Max: 932
+<<1437535435.52	:Pluto.US.AfterNET.Org NOTICE UrGay :Highest connection count: 98 (97 clients)
+<<1437535435.52	:Pluto.US.AfterNET.Org 375 UrGay :- Pluto.US.AfterNET.Org Message of the Day - 
+<<1437535435.52	:Pluto.US.AfterNET.Org 372 UrGay :See http://www.afternet.org for information about this network.
+<<1437535435.52	:Pluto.US.AfterNET.Org 372 UrGay :Type /MOTD to read the AUP before continuing using this service.
+<<1437535435.52	:Pluto.US.AfterNET.Org 372 UrGay :The message of the day was last changed: 2015-6-25 1:23
+<<1437535435.52	:Pluto.US.AfterNET.Org 376 UrGay :End of /MOTD command.
+<<1437535435.52	:Pluto.US.AfterNET.Org NOTICE UrGay :on 1 ca 1(6) ft 10(10) tr
+<<1437535435.52	:UrGay!willie@li874-253.members.linode.com MODE UrGay +iw
+<<1437535435.56	:UrGay!willie@li874-253.members.linode.com MODE UrGay +B
+<<1437535435.56	:Pluto.US.AfterNET.Org 474 UrGay #tib :Cannot join channel (+b)
+>>1437535459.14	QUIT :KeyboardInterrupt
+>>1437535462.28	CAP LS
+>>1437535462.28	NICK UrGay
+>>1437535462.28	USER willie +iw UrGay :Willie: http://willie.dftba.net
+<<1437535462.28	NOTICE AUTH :*** Looking up your hostname
+<<1437535462.28	NOTICE AUTH :*** Found your hostname
+<<1437535462.31	:FractalRealities.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535462.31	CAP REQ multi-prefix
+>>1437535462.31	CAP END
+<<1437535462.34	PING :2869670897
+>>1437535462.34	PONG 2869670897
+<<1437535462.37	:FractalRealities.US.AfterNET.Org CAP UrGay ACK :multi-prefix
+<<1437535462.4	:FractalRealities.US.AfterNET.Org 001 UrGay :Welcome to the AfterNET IRC Network, UrGay
+>>1437535462.4	MODE  UrGay +B
+>>1437535462.4	JOIN #tib
+>>1437535462.4	JOIN #grindrtest
+<<1437535462.4	:FractalRealities.US.AfterNET.Org 002 UrGay :Your host is FractalRealities.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437535462.4	:FractalRealities.US.AfterNET.Org 003 UrGay :This server was created Wed May 13 2015 at 12:15:24 EDT
+<<1437535462.4	:FractalRealities.US.AfterNET.Org 004 UrGay FractalRealities.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437535462.41	:FractalRealities.US.AfterNET.Org 005 UrGay WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437535462.41	:FractalRealities.US.AfterNET.Org 005 UrGay MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437535462.41	:FractalRealities.US.AfterNET.Org 005 UrGay NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437535462.43	:FractalRealities.US.AfterNET.Org 251 UrGay :There are 465 users and 369 invisible on 17 servers
+<<1437535462.43	:FractalRealities.US.AfterNET.Org 252 UrGay 21 :operator(s) online
+<<1437535462.43	:FractalRealities.US.AfterNET.Org 254 UrGay 330 :channels formed
+<<1437535462.43	:FractalRealities.US.AfterNET.Org 255 UrGay :I have 88 clients and 1 servers
+<<1437535462.43	:FractalRealities.US.AfterNET.Org 265 UrGay :Current local users: 88 Max: 185
+<<1437535462.43	:FractalRealities.US.AfterNET.Org 266 UrGay :Current global users: 834 Max: 1503
+<<1437535462.43	:FractalRealities.US.AfterNET.Org NOTICE UrGay :Highest connection count: 108 (107 clients)
+<<1437535462.44	:FractalRealities.US.AfterNET.Org 375 UrGay :- FractalRealities.US.AfterNET.Org Message of the Day - 
+<<1437535462.44	:FractalRealities.US.AfterNET.Org 372 UrGay :See http://www.afternet.org for information about this network.
+<<1437535462.44	:FractalRealities.US.AfterNET.Org 372 UrGay :Type /MOTD to read the AUP before continuing using this service.
+<<1437535462.44	:FractalRealities.US.AfterNET.Org 372 UrGay :The message of the day was last changed: 2014-3-5 3:15
+<<1437535462.44	:FractalRealities.US.AfterNET.Org 376 UrGay :End of /MOTD command.
+<<1437535462.46	:FractalRealities.US.AfterNET.Org NOTICE UrGay :on 1 ca 1(6) ft 10(10)
+<<1437535462.46	:FractalRealities.US.AfterNET.Org 396 UrGay AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437535462.46	:UrGay!willie@AN-F23BAF25.members.linode.com MODE UrGay +iwx
+<<1437535462.46	:UrGay!willie@AN-F23BAF25.members.linode.com MODE UrGay +B
+<<1437535462.46	:FractalRealities.US.AfterNET.Org 474 UrGay #tib :Cannot join channel (+b)
+<<1437535462.46	:UrGay!willie@AN-F23BAF25.members.linode.com JOIN #grindrtest
+<<1437535462.46	:FractalRealities.US.AfterNET.Org 353 UrGay = #grindrtest :UrGay @kermit
+<<1437535462.46	:FractalRealities.US.AfterNET.Org 366 UrGay #grindrtest :End of /NAMES list.
+>>1437535494.28	QUIT :KeyboardInterrupt
+>>1437535497.49	CAP LS
+>>1437535497.49	NICK UrGay
+>>1437535497.49	USER willie +iw UrGay :Willie: http://willie.dftba.net
+<<1437535497.49	NOTICE AUTH :*** Looking up your hostname
+<<1437535497.49	NOTICE AUTH :*** Found your hostname
+<<1437535497.49	:Aurora.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535497.49	CAP REQ multi-prefix
+>>1437535497.49	CAP END
+<<1437535497.49	PING :2014037331
+>>1437535497.49	PONG 2014037331
+<<1437535497.49	:Aurora.US.AfterNET.Org CAP UrGay ACK :multi-prefix
+<<1437535497.53	:Aurora.US.AfterNET.Org 001 UrGay :Welcome to the AfterNET IRC Network, UrGay
+>>1437535497.53	AUTHSERV auth willie imgay
+>>1437535497.53	MODE  UrGay +B
+>>1437535497.53	JOIN #tib
+>>1437535497.53	JOIN #grindrtest
+<<1437535497.53	:Aurora.US.AfterNET.Org 002 UrGay :Your host is Aurora.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437535497.54	:Aurora.US.AfterNET.Org 003 UrGay :This server was created Sun Apr 26 2015 at 06:59:05 UTC
+<<1437535497.54	:Aurora.US.AfterNET.Org 004 UrGay Aurora.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437535497.54	:Aurora.US.AfterNET.Org 005 UrGay WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437535497.54	:Aurora.US.AfterNET.Org 005 UrGay MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437535497.54	:Aurora.US.AfterNET.Org 005 UrGay NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437535497.54	:Aurora.US.AfterNET.Org 251 UrGay :There are 466 users and 369 invisible on 17 servers
+<<1437535497.55	:Aurora.US.AfterNET.Org 252 UrGay 21 :operator(s) online
+<<1437535497.55	:Aurora.US.AfterNET.Org 254 UrGay 330 :channels formed
+<<1437535497.55	:Aurora.US.AfterNET.Org 255 UrGay :I have 138 clients and 4 servers
+<<1437535497.55	:Aurora.US.AfterNET.Org 265 UrGay :Current local users: 138 Max: 384
+<<1437535497.55	:Aurora.US.AfterNET.Org 266 UrGay :Current global users: 835 Max: 1503
+<<1437535497.55	:Aurora.US.AfterNET.Org NOTICE UrGay :Highest connection count: 395 (384 clients)
+<<1437535497.55	:Aurora.US.AfterNET.Org 375 UrGay :- Aurora.US.AfterNET.Org Message of the Day - 
+<<1437535497.55	:Aurora.US.AfterNET.Org 372 UrGay :See http://www.afternet.org for information about this network.
+<<1437535497.55	:Aurora.US.AfterNET.Org 372 UrGay :Type /MOTD to read the AUP before continuing using this service.
+<<1437535497.55	:Aurora.US.AfterNET.Org 372 UrGay :The message of the day was last changed: 2014-2-18 7:18
+<<1437535497.56	:Aurora.US.AfterNET.Org 376 UrGay :End of /MOTD command.
+<<1437535497.56	:Aurora.US.AfterNET.Org NOTICE UrGay :on 1 ca 1(6) ft 10(10) tr
+<<1437535497.56	:Aurora.US.AfterNET.Org 396 UrGay AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437535497.56	:UrGay!willie@AN-F23BAF25.members.linode.com MODE UrGay +iwx
+<<1437535497.56	:UrGay!willie@AN-F23BAF25.members.linode.com MODE UrGay +B
+<<1437535497.56	:Aurora.US.AfterNET.Org 474 UrGay #tib :Cannot join channel (+b)
+<<1437535497.58	:UrGay!willie@AN-F23BAF25.members.linode.com JOIN #grindrtest
+<<1437535497.58	:Aurora.US.AfterNET.Org 353 UrGay = #grindrtest :UrGay @kermit
+<<1437535497.58	:Aurora.US.AfterNET.Org 366 UrGay #grindrtest :End of /NAMES list.
+<<1437535497.76	:Aurora.US.AfterNET.Org 396 UrGay willie.Users.AfterNET.Org :is now your hidden host
+<<1437535497.81	:AuthServ!AuthServ@X3.AfterNET.Services NOTICE UrGay :I recognize you.
+>>1437535524.83	QUIT :KeyboardInterrupt
+>>1437535627.22	CAP LS
+>>1437535627.22	NICK Willie
+>>1437535627.22	USER willie +iw Willie :Willie Embosbot, http://willie.dftba.net
+<<1437535627.22	NOTICE AUTH :*** Looking up your hostname
+<<1437535627.26	:Pluto.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535627.27	CAP REQ multi-prefix
+>>1437535627.27	CAP END
+<<1437535627.31	NOTICE AUTH :*** Found your hostname
+<<1437535627.36	:Pluto.US.AfterNET.Org 433 * Willie :Nickname is already in use.
+>>1437535647.91	CAP LS
+>>1437535647.91	NICK Willie
+>>1437535647.91	USER willie +iw Willie :Willie Embosbot, http://willie.dftba.net
+<<1437535647.93	NOTICE AUTH :*** Looking up your hostname
+<<1437535647.93	NOTICE AUTH :*** Found your hostname
+<<1437535647.93	:Aurora.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535647.93	CAP REQ multi-prefix
+>>1437535647.93	CAP END
+<<1437535647.93	:Aurora.US.AfterNET.Org 433 * Willie :Nickname is already in use.
+>>1437535672.04	CAP LS
+>>1437535672.04	NICK GrindrBot
+>>1437535672.04	USER grindr +iw GrindrBot :Willie Embosbot, http://willie.dftba.net
+<<1437535672.05	NOTICE AUTH :*** Looking up your hostname
+<<1437535672.05	NOTICE AUTH :*** Found your hostname
+<<1437535672.05	:Aurora.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535672.05	CAP REQ multi-prefix
+>>1437535672.05	CAP END
+<<1437535672.05	PING :3775955607
+>>1437535672.05	PONG 3775955607
+<<1437535672.08	:Aurora.US.AfterNET.Org CAP GrindrBot ACK :multi-prefix
+<<1437535672.09	:Aurora.US.AfterNET.Org 001 GrindrBot :Welcome to the AfterNET IRC Network, GrindrBot
+>>1437535672.09	AUTHSERV auth grindr imgay
+>>1437535672.09	MODE  GrindrBot +B
+>>1437535672.09	JOIN #grindrtest
+<<1437535672.09	:Aurora.US.AfterNET.Org 002 GrindrBot :Your host is Aurora.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437535672.09	:Aurora.US.AfterNET.Org 003 GrindrBot :This server was created Sun Apr 26 2015 at 06:59:05 UTC
+<<1437535672.09	:Aurora.US.AfterNET.Org 004 GrindrBot Aurora.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437535672.09	:Aurora.US.AfterNET.Org 005 GrindrBot WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437535672.09	:Aurora.US.AfterNET.Org 005 GrindrBot MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437535672.1	:Aurora.US.AfterNET.Org 005 GrindrBot NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437535672.1	:Aurora.US.AfterNET.Org 251 GrindrBot :There are 467 users and 371 invisible on 17 servers
+<<1437535672.1	:Aurora.US.AfterNET.Org 252 GrindrBot 21 :operator(s) online
+<<1437535672.1	:Aurora.US.AfterNET.Org 254 GrindrBot 330 :channels formed
+<<1437535672.1	:Aurora.US.AfterNET.Org 255 GrindrBot :I have 138 clients and 4 servers
+<<1437535672.1	:Aurora.US.AfterNET.Org 265 GrindrBot :Current local users: 138 Max: 384
+<<1437535672.11	:Aurora.US.AfterNET.Org 266 GrindrBot :Current global users: 838 Max: 1503
+<<1437535672.11	:Aurora.US.AfterNET.Org NOTICE GrindrBot :Highest connection count: 395 (384 clients)
+<<1437535672.11	:Aurora.US.AfterNET.Org 375 GrindrBot :- Aurora.US.AfterNET.Org Message of the Day - 
+<<1437535672.11	:Aurora.US.AfterNET.Org 372 GrindrBot :See http://www.afternet.org for information about this network.
+<<1437535672.11	:Aurora.US.AfterNET.Org 372 GrindrBot :Type /MOTD to read the AUP before continuing using this service.
+<<1437535672.11	:Aurora.US.AfterNET.Org 372 GrindrBot :The message of the day was last changed: 2014-2-18 7:18
+<<1437535672.11	:Aurora.US.AfterNET.Org 376 GrindrBot :End of /MOTD command.
+<<1437535672.11	:Aurora.US.AfterNET.Org NOTICE GrindrBot :on 1 ca 2(6) ft 10(10) tr
+<<1437535672.11	:Aurora.US.AfterNET.Org 396 GrindrBot AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437535672.11	:GrindrBot!grindr@AN-F23BAF25.members.linode.com MODE GrindrBot +iwx
+<<1437535672.11	:GrindrBot!grindr@AN-F23BAF25.members.linode.com MODE GrindrBot +B
+<<1437535672.12	:GrindrBot!grindr@AN-F23BAF25.members.linode.com JOIN #grindrtest
+<<1437535672.12	:Aurora.US.AfterNET.Org 353 GrindrBot = #grindrtest :GrindrBot @kermit
+<<1437535672.12	:Aurora.US.AfterNET.Org 366 GrindrBot #grindrtest :End of /NAMES list.
+<<1437535672.31	:AuthServ!AuthServ@X3.AfterNET.Services NOTICE GrindrBot :Could not find your account -- did you register yet?
+>>1437535699.78	QUIT :KeyboardInterrupt
+>>1437535703.47	CAP LS
+>>1437535703.47	NICK GrindrBot
+>>1437535703.47	USER grindr +iw GrindrBot :Willie Embosbot, http://willie.dftba.net
+<<1437535703.47	NOTICE AUTH :*** Looking up your hostname
+<<1437535703.48	NOTICE AUTH :*** Found your hostname
+<<1437535703.5	:FractalRealities.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437535703.5	CAP REQ multi-prefix
+>>1437535703.5	CAP END
+<<1437535703.53	PING :571484072
+>>1437535703.53	PONG 571484072
+<<1437535703.56	:FractalRealities.US.AfterNET.Org CAP GrindrBot ACK :multi-prefix
+<<1437535703.59	:FractalRealities.US.AfterNET.Org 001 GrindrBot :Welcome to the AfterNET IRC Network, GrindrBot
+>>1437535703.59	AUTHSERV auth grindr imgay
+>>1437535703.59	MODE  GrindrBot +B
+>>1437535703.59	JOIN #grindrtest
+>>1437535703.59	JOIN  #tib
+<<1437535703.59	:FractalRealities.US.AfterNET.Org 002 GrindrBot :Your host is FractalRealities.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437535703.6	:FractalRealities.US.AfterNET.Org 003 GrindrBot :This server was created Wed May 13 2015 at 12:15:24 EDT
+<<1437535703.6	:FractalRealities.US.AfterNET.Org 004 GrindrBot FractalRealities.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437535703.6	:FractalRealities.US.AfterNET.Org 005 GrindrBot WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437535703.61	:FractalRealities.US.AfterNET.Org 005 GrindrBot MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437535703.61	:FractalRealities.US.AfterNET.Org 005 GrindrBot NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437535703.62	:FractalRealities.US.AfterNET.Org 251 GrindrBot :There are 467 users and 370 invisible on 17 servers
+<<1437535703.62	:FractalRealities.US.AfterNET.Org 252 GrindrBot 21 :operator(s) online
+<<1437535703.63	:FractalRealities.US.AfterNET.Org 254 GrindrBot 330 :channels formed
+<<1437535703.63	:FractalRealities.US.AfterNET.Org 255 GrindrBot :I have 87 clients and 1 servers
+<<1437535703.63	:FractalRealities.US.AfterNET.Org 265 GrindrBot :Current local users: 87 Max: 185
+<<1437535703.63	:FractalRealities.US.AfterNET.Org 266 GrindrBot :Current global users: 837 Max: 1503
+<<1437535703.63	:FractalRealities.US.AfterNET.Org NOTICE GrindrBot :Highest connection count: 108 (107 clients)
+<<1437535703.63	:FractalRealities.US.AfterNET.Org 375 GrindrBot :- FractalRealities.US.AfterNET.Org Message of the Day - 
+<<1437535703.63	:FractalRealities.US.AfterNET.Org 372 GrindrBot :See http://www.afternet.org for information about this network.
+<<1437535703.63	:FractalRealities.US.AfterNET.Org 372 GrindrBot :Type /MOTD to read the AUP before continuing using this service.
+<<1437535703.63	:FractalRealities.US.AfterNET.Org 372 GrindrBot :The message of the day was last changed: 2014-3-5 3:15
+<<1437535703.65	:FractalRealities.US.AfterNET.Org 376 GrindrBot :End of /MOTD command.
+<<1437535703.65	:FractalRealities.US.AfterNET.Org NOTICE GrindrBot :on 1 ca 1(6) ft 10(10)
+<<1437535703.65	:FractalRealities.US.AfterNET.Org 396 GrindrBot AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437535703.65	:GrindrBot!grindr@AN-F23BAF25.members.linode.com MODE GrindrBot +iwx
+<<1437535703.65	:GrindrBot!grindr@AN-F23BAF25.members.linode.com MODE GrindrBot +B
+<<1437535703.65	:GrindrBot!grindr@AN-F23BAF25.members.linode.com JOIN #grindrtest
+<<1437535703.66	:FractalRealities.US.AfterNET.Org 353 GrindrBot = #grindrtest :GrindrBot @kermit
+<<1437535703.66	:FractalRealities.US.AfterNET.Org 366 GrindrBot #grindrtest :End of /NAMES list.
+<<1437535703.66	:GrindrBot!grindr@AN-F23BAF25.members.linode.com JOIN #tib
+<<1437535703.66	:FractalRealities.US.AfterNET.Org 332 GrindrBot #tib :Welcome to Tackled In Belt IRC || 2/26/15 The day everyone unleaqd (Except Kermit) || TS: ts.leaq.club || charmy owes me 870mil dont 4get
+<<1437535703.66	:FractalRealities.US.AfterNET.Org 333 GrindrBot #tib X3 1437523200
+<<1437535703.66	:FractalRealities.US.AfterNET.Org 353 GrindrBot @ #tib :GrindrBot @Willie @Nuglord @fifty @jordannn @kermit @Cobbot Oreo @Pants @nartle @X3
+<<1437535703.72	:FractalRealities.US.AfterNET.Org 366 GrindrBot #tib :End of /NAMES list.
+<<1437535703.88	:AuthServ!AuthServ@X3.AfterNET.Services NOTICE GrindrBot :Could not find your account -- did you register yet?
+<<1437535704.05	:X3!X3@X3.AfterNET.Services MODE #tib +b *!*@AN-F23BAF25.members.linode.com
+<<1437535704.08	:X3!X3@X3.AfterNET.Services KICK #tib GrindrBot :(pants) Bye.
+>>1437535704.08	JOIN #tib
+<<1437535704.11	:FractalRealities.US.AfterNET.Org 474 GrindrBot #tib :Cannot join channel (+b)
+<<1437535713.31	:kermit!kermit@kermit.Users.AfterNET.Org PRIVMSG #grindrtest :.et
+>>1437535713.31	PRIVMSG #grindrtest :Current Eve Time: 07/22/2015 - 03:28:33
+>>1437535797.5	QUIT :KeyboardInterrupt
+>>1437536145.75	CAP LS
+>>1437536145.75	NICK $TEST
+>>1437536145.75	USER grindr +iw $TEST :Willie Embosbot, http://willie.dftba.net
+<<1437536145.75	NOTICE AUTH :*** Looking up your hostname
+<<1437536145.76	NOTICE AUTH :*** Found your hostname
+<<1437536145.8	:Jaeger.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437536145.8	CAP REQ multi-prefix
+>>1437536145.8	CAP END
+<<1437536145.87	:Jaeger.US.AfterNET.Org 432 * $TEST :Erroneous Nickname
+<<1437536145.91	:Jaeger.US.AfterNET.Org CAP * ACK :multi-prefix
+>>1437536174.19	QUIT :KeyboardInterrupt
+>>1437536177.66	CAP LS
+>>1437536177.66	NICK grindrtest
+>>1437536177.66	USER grindr +iw grindrtest :Willie Embosbot, http://willie.dftba.net
+<<1437536177.66	NOTICE AUTH :*** Looking up your hostname
+<<1437536177.66	NOTICE AUTH :*** Found your hostname
+<<1437536177.69	:Jaeger.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437536177.69	CAP REQ multi-prefix
+>>1437536177.69	CAP END
+<<1437536177.72	PING :1005102538
+>>1437536177.72	PONG 1005102538
+<<1437536177.75	:Jaeger.US.AfterNET.Org CAP grindrtest ACK :multi-prefix
+<<1437536177.79	:Jaeger.US.AfterNET.Org 001 grindrtest :Welcome to the AfterNET IRC Network, grindrtest
+>>1437536177.79	AUTHSERV auth grindr imgay
+>>1437536177.79	MODE  grindrtest +B
+>>1437536177.79	JOIN #grindrtest
+>>1437536177.79	JOIN  #tib
+<<1437536177.79	:Jaeger.US.AfterNET.Org 002 grindrtest :Your host is Jaeger.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437536177.79	:Jaeger.US.AfterNET.Org 003 grindrtest :This server was created Tue Jun 30 2015 at 17:46:04 UTC
+<<1437536177.79	:Jaeger.US.AfterNET.Org 004 grindrtest Jaeger.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437536177.79	:Jaeger.US.AfterNET.Org 005 grindrtest WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437536177.8	:Jaeger.US.AfterNET.Org 005 grindrtest MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437536177.8	:Jaeger.US.AfterNET.Org 005 grindrtest NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437536177.82	:Jaeger.US.AfterNET.Org 251 grindrtest :There are 468 users and 369 invisible on 17 servers
+<<1437536177.82	:Jaeger.US.AfterNET.Org 252 grindrtest 22 :operator(s) online
+<<1437536177.82	:Jaeger.US.AfterNET.Org 254 grindrtest 330 :channels formed
+<<1437536177.82	:Jaeger.US.AfterNET.Org 255 grindrtest :I have 39 clients and 1 servers
+<<1437536177.83	:Jaeger.US.AfterNET.Org 265 grindrtest :Current local users: 39 Max: 150
+<<1437536177.83	:Jaeger.US.AfterNET.Org 266 grindrtest :Current global users: 837 Max: 1195
+<<1437536177.83	:Jaeger.US.AfterNET.Org NOTICE grindrtest :Highest connection count: 100 (99 clients)
+<<1437536177.83	:Jaeger.US.AfterNET.Org 375 grindrtest :- Jaeger.US.AfterNET.Org Message of the Day - 
+<<1437536177.83	:Jaeger.US.AfterNET.Org 372 grindrtest :See http://www.afternet.org for information about this network.
+<<1437536177.83	:Jaeger.US.AfterNET.Org 372 grindrtest :Type /MOTD to read the AUP before continuing using this service.
+<<1437536177.83	:Jaeger.US.AfterNET.Org 372 grindrtest :The message of the day was last changed: 2014-12-11 16:41
+<<1437536177.83	:Jaeger.US.AfterNET.Org 376 grindrtest :End of /MOTD command.
+<<1437536177.83	:Jaeger.US.AfterNET.Org NOTICE grindrtest :on 1 ca 2(6) ft 10(10) tr
+<<1437536177.85	:Jaeger.US.AfterNET.Org 396 grindrtest AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437536177.85	:grindrtest!grindr@AN-F23BAF25.members.linode.com MODE grindrtest +iwx
+<<1437536177.92	:grindrtest!grindr@AN-F23BAF25.members.linode.com MODE grindrtest +B
+<<1437536177.92	:grindrtest!grindr@AN-F23BAF25.members.linode.com JOIN #grindrtest
+<<1437536177.92	:Jaeger.US.AfterNET.Org 353 grindrtest = #grindrtest :grindrtest @kermit
+<<1437536177.92	:Jaeger.US.AfterNET.Org 366 grindrtest #grindrtest :End of /NAMES list.
+<<1437536177.93	:Jaeger.US.AfterNET.Org 474 grindrtest #tib :Cannot join channel (+b)
+<<1437536178.01	:AuthServ!AuthServ@X3.AfterNET.Services NOTICE grindrtest :Could not find your account -- did you register yet?
+>>1437536226.97	QUIT :KeyboardInterrupt
+>>1437536230.04	CAP LS
+>>1437536230.04	NICK 
+>>1437536230.04	USER grindr +iw  :Willie Embosbot, http://willie.dftba.net
+<<1437536230.05	NOTICE AUTH :*** Looking up your hostname
+<<1437536230.05	NOTICE AUTH :*** Found your hostname
+<<1437536230.07	:FractalRealities.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437536230.07	CAP REQ multi-prefix
+>>1437536230.07	CAP END
+<<1437536230.1	:FractalRealities.US.AfterNET.Org 431 * :No nickname given
+<<1437536230.1	:FractalRealities.US.AfterNET.Org 461 * USER :Not enough parameters
+<<1437536230.13	:FractalRealities.US.AfterNET.Org CAP * ACK :multi-prefix
+>>1437536240.65	QUIT :KeyboardInterrupt
+>>1437536243.37	CAP LS
+>>1437536243.37	NICK grindrtest
+>>1437536243.37	USER grindr +iw grindrtest :Willie Embosbot, http://willie.dftba.net
+<<1437536243.37	NOTICE AUTH :*** Looking up your hostname
+<<1437536243.4	NOTICE AUTH :*** Found your hostname
+<<1437536243.41	:FractalRealities.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437536243.41	CAP REQ multi-prefix
+>>1437536243.41	CAP END
+<<1437536243.43	PING :788345382
+>>1437536243.43	PONG 788345382
+<<1437536243.46	:FractalRealities.US.AfterNET.Org CAP grindrtest ACK :multi-prefix
+<<1437536243.49	:FractalRealities.US.AfterNET.Org 001 grindrtest :Welcome to the AfterNET IRC Network, grindrtest
+>>1437536243.51	PRIVMSG FractalRealities.US.AfterNET.Org :TypeError: unsupported operand type(s) for +: 'NoneType' and 'unicode' (file "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 58, in auth_after_register)
+<<1437536243.51	:FractalRealities.US.AfterNET.Org 002 grindrtest :Your host is FractalRealities.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437536243.51	:FractalRealities.US.AfterNET.Org 003 grindrtest :This server was created Wed May 13 2015 at 12:15:24 EDT
+<<1437536243.51	:FractalRealities.US.AfterNET.Org 004 grindrtest FractalRealities.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437536243.51	:FractalRealities.US.AfterNET.Org 005 grindrtest WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437536243.51	:FractalRealities.US.AfterNET.Org 005 grindrtest MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437536243.51	:FractalRealities.US.AfterNET.Org 005 grindrtest NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437536243.54	:FractalRealities.US.AfterNET.Org 251 grindrtest :There are 468 users and 368 invisible on 17 servers
+<<1437536243.54	:FractalRealities.US.AfterNET.Org 252 grindrtest 22 :operator(s) online
+<<1437536243.54	:FractalRealities.US.AfterNET.Org 254 grindrtest 330 :channels formed
+<<1437536243.54	:FractalRealities.US.AfterNET.Org 255 grindrtest :I have 86 clients and 1 servers
+<<1437536243.54	:FractalRealities.US.AfterNET.Org 265 grindrtest :Current local users: 86 Max: 185
+<<1437536243.54	:FractalRealities.US.AfterNET.Org 266 grindrtest :Current global users: 836 Max: 1503
+<<1437536243.54	:FractalRealities.US.AfterNET.Org NOTICE grindrtest :Highest connection count: 108 (107 clients)
+<<1437536243.54	:FractalRealities.US.AfterNET.Org 375 grindrtest :- FractalRealities.US.AfterNET.Org Message of the Day - 
+<<1437536243.55	:FractalRealities.US.AfterNET.Org 372 grindrtest :See http://www.afternet.org for information about this network.
+<<1437536243.55	:FractalRealities.US.AfterNET.Org 372 grindrtest :Type /MOTD to read the AUP before continuing using this service.
+<<1437536243.55	:FractalRealities.US.AfterNET.Org 372 grindrtest :The message of the day was last changed: 2014-3-5 3:15
+<<1437536243.61	:FractalRealities.US.AfterNET.Org 376 grindrtest :End of /MOTD command.
+<<1437536243.61	:FractalRealities.US.AfterNET.Org NOTICE grindrtest :on 1 ca 2(6) ft 10(10) tr
+<<1437536243.61	:FractalRealities.US.AfterNET.Org 396 grindrtest AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437536243.61	:grindrtest!grindr@AN-F23BAF25.members.linode.com MODE grindrtest +iwx
+<<1437536243.61	:FractalRealities.US.AfterNET.Org 401 grindrtest FractalRealities.US.AfterNET.Org :No such nick
+>>1437536261.64	QUIT :KeyboardInterrupt
+>>1437536264.56	CAP LS
+>>1437536264.56	NICK grindrtest
+>>1437536264.56	USER grindr +iw grindrtest :Willie Embosbot, http://willie.dftba.net
+<<1437536264.56	NOTICE AUTH :*** Looking up your hostname
+<<1437536264.57	NOTICE AUTH :*** Found your hostname
+<<1437536264.57	:Aurora.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437536264.57	CAP REQ multi-prefix
+>>1437536264.57	CAP END
+<<1437536264.57	PING :2681902238
+>>1437536264.57	PONG 2681902238
+<<1437536264.6	:Aurora.US.AfterNET.Org CAP grindrtest ACK :multi-prefix
+<<1437536264.61	:Aurora.US.AfterNET.Org 001 grindrtest :Welcome to the AfterNET IRC Network, grindrtest
+>>1437536264.61	AUTHSERV auth grindrbot imgay
+>>1437536264.61	MODE  grindrtest +B
+>>1437536264.61	JOIN #grindrtest
+>>1437536264.61	JOIN  #tib
+<<1437536264.61	:Aurora.US.AfterNET.Org 002 grindrtest :Your host is Aurora.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437536264.61	:Aurora.US.AfterNET.Org 003 grindrtest :This server was created Sun Apr 26 2015 at 06:59:05 UTC
+<<1437536264.61	:Aurora.US.AfterNET.Org 004 grindrtest Aurora.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437536264.62	:Aurora.US.AfterNET.Org 005 grindrtest WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437536264.62	:Aurora.US.AfterNET.Org 005 grindrtest MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437536264.62	:Aurora.US.AfterNET.Org 005 grindrtest NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437536264.62	:Aurora.US.AfterNET.Org 251 grindrtest :There are 468 users and 368 invisible on 17 servers
+<<1437536264.63	:Aurora.US.AfterNET.Org 252 grindrtest 22 :operator(s) online
+<<1437536264.63	:Aurora.US.AfterNET.Org 254 grindrtest 330 :channels formed
+<<1437536264.63	:Aurora.US.AfterNET.Org 255 grindrtest :I have 135 clients and 4 servers
+<<1437536264.63	:Aurora.US.AfterNET.Org 265 grindrtest :Current local users: 135 Max: 384
+<<1437536264.63	:Aurora.US.AfterNET.Org 266 grindrtest :Current global users: 836 Max: 1503
+<<1437536264.63	:Aurora.US.AfterNET.Org NOTICE grindrtest :Highest connection count: 395 (384 clients)
+<<1437536264.63	:Aurora.US.AfterNET.Org 375 grindrtest :- Aurora.US.AfterNET.Org Message of the Day - 
+<<1437536264.63	:Aurora.US.AfterNET.Org 372 grindrtest :See http://www.afternet.org for information about this network.
+<<1437536264.63	:Aurora.US.AfterNET.Org 372 grindrtest :Type /MOTD to read the AUP before continuing using this service.
+<<1437536264.63	:Aurora.US.AfterNET.Org 372 grindrtest :The message of the day was last changed: 2014-2-18 7:18
+<<1437536264.63	:Aurora.US.AfterNET.Org 376 grindrtest :End of /MOTD command.
+<<1437536264.63	:Aurora.US.AfterNET.Org NOTICE grindrtest :on 1 ca 1(6) ft 10(10)
+<<1437536264.64	:Aurora.US.AfterNET.Org 396 grindrtest AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437536264.64	:grindrtest!grindr@AN-F23BAF25.members.linode.com MODE grindrtest +iwx
+<<1437536264.64	:grindrtest!grindr@AN-F23BAF25.members.linode.com MODE grindrtest +B
+<<1437536264.64	:grindrtest!grindr@AN-F23BAF25.members.linode.com JOIN #grindrtest
+<<1437536264.64	:Aurora.US.AfterNET.Org 353 grindrtest = #grindrtest :grindrtest @kermit
+<<1437536264.64	:Aurora.US.AfterNET.Org 366 grindrtest #grindrtest :End of /NAMES list.
+<<1437536264.64	:Aurora.US.AfterNET.Org 474 grindrtest #tib :Cannot join channel (+b)
+<<1437536264.8	:AuthServ!AuthServ@X3.AfterNET.Services NOTICE grindrtest :Could not find your account -- did you register yet?
+>>1437536301.05	QUIT :KeyboardInterrupt
+>>1437536685.5	CAP LS
+>>1437536685.5	NICK GrindrBot
+>>1437536685.5	USER grindr +iw GrindrBot :Willie Embosbot, http://willie.dftba.net
+<<1437536685.51	NOTICE AUTH :*** Looking up your hostname
+<<1437536685.51	NOTICE AUTH :*** Found your hostname
+<<1437536685.52	:Aurora.US.AfterNET.Org CAP * LS :account-notify away-notify extended-join multi-prefix sasl tls userhost-in-names
+>>1437536685.52	CAP REQ multi-prefix
+>>1437536685.52	CAP END
+<<1437536685.53	PING :1477796437
+>>1437536685.53	PONG 1477796437
+<<1437536685.54	:Aurora.US.AfterNET.Org CAP GrindrBot ACK :multi-prefix
+<<1437536685.54	:Aurora.US.AfterNET.Org 001 GrindrBot :Welcome to the AfterNET IRC Network, GrindrBot
+>>1437536685.55	AUTHSERV auth grindrbot imgay
+>>1437536685.55	MODE  GrindrBot +B
+>>1437536685.55	JOIN #grindrtest
+>>1437536685.55	JOIN  #tib
+<<1437536685.55	:Aurora.US.AfterNET.Org 002 GrindrBot :Your host is Aurora.US.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+<<1437536685.56	:Aurora.US.AfterNET.Org 003 GrindrBot :This server was created Sun Apr 26 2015 at 06:59:05 UTC
+<<1437536685.56	:Aurora.US.AfterNET.Org 004 GrindrBot Aurora.US.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+<<1437536685.56	:Aurora.US.AfterNET.Org 005 GrindrBot WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+<<1437536685.57	:Aurora.US.AfterNET.Org 005 GrindrBot MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+<<1437536685.57	:Aurora.US.AfterNET.Org 005 GrindrBot NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+<<1437536685.57	:Aurora.US.AfterNET.Org 251 GrindrBot :There are 469 users and 369 invisible on 17 servers
+<<1437536685.57	:Aurora.US.AfterNET.Org 252 GrindrBot 22 :operator(s) online
+<<1437536685.57	:Aurora.US.AfterNET.Org 254 GrindrBot 330 :channels formed
+<<1437536685.58	:Aurora.US.AfterNET.Org 255 GrindrBot :I have 136 clients and 4 servers
+<<1437536685.58	:Aurora.US.AfterNET.Org 265 GrindrBot :Current local users: 136 Max: 384
+<<1437536685.58	:Aurora.US.AfterNET.Org 266 GrindrBot :Current global users: 838 Max: 1503
+<<1437536685.58	:Aurora.US.AfterNET.Org NOTICE GrindrBot :Highest connection count: 395 (384 clients)
+<<1437536685.58	:Aurora.US.AfterNET.Org 375 GrindrBot :- Aurora.US.AfterNET.Org Message of the Day - 
+<<1437536685.58	:Aurora.US.AfterNET.Org 372 GrindrBot :See http://www.afternet.org for information about this network.
+<<1437536685.59	:Aurora.US.AfterNET.Org 372 GrindrBot :Type /MOTD to read the AUP before continuing using this service.
+<<1437536685.59	:Aurora.US.AfterNET.Org 372 GrindrBot :The message of the day was last changed: 2014-2-18 7:18
+<<1437536685.59	:Aurora.US.AfterNET.Org 376 GrindrBot :End of /MOTD command.
+<<1437536685.59	:Aurora.US.AfterNET.Org NOTICE GrindrBot :on 1 ca 1(6) ft 10(10)
+<<1437536685.59	:Aurora.US.AfterNET.Org 396 GrindrBot AN-F23BAF25.members.linode.com :is now your hidden host
+<<1437536685.6	:GrindrBot!grindr@AN-F23BAF25.members.linode.com MODE GrindrBot +iwx
+<<1437536685.6	:GrindrBot!grindr@AN-F23BAF25.members.linode.com MODE GrindrBot +B
+<<1437536685.6	:GrindrBot!grindr@AN-F23BAF25.members.linode.com JOIN #grindrtest
+<<1437536685.6	:Aurora.US.AfterNET.Org 353 GrindrBot = #grindrtest :GrindrBot @kermit
+<<1437536685.6	:Aurora.US.AfterNET.Org 366 GrindrBot #grindrtest :End of /NAMES list.
+<<1437536685.6	:Aurora.US.AfterNET.Org 474 GrindrBot #tib :Cannot join channel (+b)
+<<1437536685.76	:AuthServ!AuthServ@X3.AfterNET.Services NOTICE GrindrBot :Could not find your account -- did you register yet?

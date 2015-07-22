@@ -1,0 +1,12 @@
+Signature: TypeError: unsupported operand type(s) for +: 'NoneType' and 'unicode' (file "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 58, in auth_after_register)
+from FractalRealities.US.AfterNET.Org at 2015-07-22 03:37:23.508206. Message was: Welcome to the AfterNET IRC Network, grindrtest
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 460, in call
+    exit_code = func(willie, trigger)
+  File "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 82, in startup
+    auth_after_register(bot)
+  File "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 58, in auth_after_register
+    account + ' ' + password
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'unicode'
+----------------------------------------
+

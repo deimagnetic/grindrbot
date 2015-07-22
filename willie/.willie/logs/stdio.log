@@ -1,0 +1,1035 @@
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 41 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 41 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 41 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 41 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 41 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 41 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+Nickname already in use!
+Calling shutdown for 4 modules.
+calling youtube.shutdown
+calling bugzilla.shutdown
+Error calling shutdown method for module bugzilla:None
+calling reddit.shutdown
+calling github.shutdown
+Closed!
+Warning: Disconnected. Reconnecting in 20 seconds...
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+Nickname already in use!
+Calling shutdown for 4 modules.
+calling reddit.shutdown
+calling youtube.shutdown
+calling bugzilla.shutdown
+Error calling shutdown method for module bugzilla:None
+calling github.shutdown
+Closed!
+Warning: Disconnected. Reconnecting in 20 seconds...
+
+
+Interrupted
+There's already a Willie instance running with this config file
+Try using the --quit or the --kill options
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+The "authserv_account" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 49, in run
+    p.run(config.core.host, int(config.core.port))
+  File "/usr/lib/python2.7/site-packages/willie/irc.py", line 202, in run
+    self.initiate_connect(host, port)
+  File "/usr/lib/python2.7/site-packages/willie/irc.py", line 221, in initiate_connect
+    asyncore.loop()
+  File "/usr/lib64/python2.7/asyncore.py", line 216, in loop
+    poll_fun(timeout, map)
+  File "/usr/lib64/python2.7/asyncore.py", line 156, in poll
+    read(obj)
+  File "/usr/lib64/python2.7/asyncore.py", line 83, in read
+    obj.handle_read_event()
+  File "/usr/lib64/python2.7/asyncore.py", line 449, in handle_read_event
+    self.handle_read()
+  File "/usr/lib64/python2.7/asynchat.py", line 165, in handle_read
+    self.found_terminator()
+  File "/usr/lib/python2.7/site-packages/willie/irc.py", line 395, in found_terminator
+    self.dispatch(pretrigger)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 519, in dispatch
+    self.call(func, wrapper, trigger)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 460, in call
+    exit_code = func(willie, trigger)
+  File "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 82, in startup
+    auth_after_register(bot)
+  File "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 54, in auth_after_register
+    account = bot.config.core.auth_username or bot.config.core.authserv_account
+The "authserv_password" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 49, in run
+    p.run(config.core.host, int(config.core.port))
+  File "/usr/lib/python2.7/site-packages/willie/irc.py", line 202, in run
+    self.initiate_connect(host, port)
+  File "/usr/lib/python2.7/site-packages/willie/irc.py", line 221, in initiate_connect
+    asyncore.loop()
+  File "/usr/lib64/python2.7/asyncore.py", line 216, in loop
+    poll_fun(timeout, map)
+  File "/usr/lib64/python2.7/asyncore.py", line 156, in poll
+    read(obj)
+  File "/usr/lib64/python2.7/asyncore.py", line 83, in read
+    obj.handle_read_event()
+  File "/usr/lib64/python2.7/asyncore.py", line 449, in handle_read_event
+    self.handle_read()
+  File "/usr/lib64/python2.7/asynchat.py", line 165, in handle_read
+    self.found_terminator()
+  File "/usr/lib/python2.7/site-packages/willie/irc.py", line 395, in found_terminator
+    self.dispatch(pretrigger)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 519, in dispatch
+    self.call(func, wrapper, trigger)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 460, in call
+    exit_code = func(willie, trigger)
+  File "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 82, in startup
+    auth_after_register(bot)
+  File "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 55, in auth_after_register
+    password = bot.config.core.auth_password or bot.config.core.authserv_password
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 460, in call
+    exit_code = func(willie, trigger)
+  File "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 82, in startup
+    auth_after_register(bot)
+  File "/usr/lib/python2.7/site-packages/willie/coretasks.py", line 58, in auth_after_register
+    account + ' ' + password
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'unicode'
+
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Willie. Loading modules...
+
+
+Error in safety setup procedure: ConfigurationError: Safety module not configured (modules/safety.py:55)
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 221, in __getattr__
+    elif hasattr(self.core, name):
+Accessing core config "chanlogs" directly from the main config is deprecated, and will not be possible in 6.0
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+The "chanlogs" core config setting is deprecated
+  File "/usr/bin/willie", line 211, in <module>
+    main()
+  File "/usr/bin/willie", line 206, in main
+    run(config_module, pid_file_path)
+  File "/usr/lib/python2.7/site-packages/willie/__init__.py", line 43, in run
+    p = bot.Willie(config, daemon=daemon)
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 119, in __init__
+    self.setup()
+  File "/usr/lib/python2.7/site-packages/willie/bot.py", line 149, in setup
+    module.setup(self)
+  File "/usr/lib/python2.7/site-packages/willie/modules/chanlogs.py", line 100, in setup
+    if not getattr(bot.config, "chanlogs", None):
+  File "/usr/lib/python2.7/site-packages/willie/config/__init__.py", line 223, in __getattr__
+    return getattr(self.core, name)
+Error in chanlogs setup procedure: ConfigurationError: Channel logs are not configured (modules/chanlogs.py:101)
+Error loading ipython: No module named IPython (modules/ipython.py:23)
+
+
+Registered 54 modules,
+3 modules failed to load
+
+
+Connecting to irc.afternet.org:6667...
+Connected.
