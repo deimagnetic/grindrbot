@@ -6,7 +6,7 @@
 
     docker build {yourname}/{yourbot} . 
 
-    docker run {yourname}/{yourbot} ```
+    docker run {yourname}/{yourbot}
 
 
 Image can be built on tutum as well and ran as a service.
